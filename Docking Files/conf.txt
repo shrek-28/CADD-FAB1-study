@@ -1,0 +1,8 @@
+receptor = clean_6ah9.pdbqt
+exhaustiveness  = 8
+center_x = 17.8832809246
+center_y = 9.81542218905
+center_z = 14.1276170882
+size_x = 31.372850561
+size_y = 29.7046588068
+size_z = 36.0120924018
